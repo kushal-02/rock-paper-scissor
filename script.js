@@ -14,7 +14,7 @@ let computerTotal = document.querySelector('.computerTotal');
 function reset(){
     computerScore = 0;
     playerScore = 0;
-    answer = 'Please click rock, paper, or scissors.';
+    answer = 'Please click rock, paper, or scissors.';  
 }
 
 
